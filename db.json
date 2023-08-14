@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "abc",
+      "price": "123",
+      "desc": "ádfadsf",
+      "option": "c2",
+      "id": 2
+    },
+    {
+      "name": "ádfs",
+      "price": "3432",
+      "desc": "ádf",
+      "option": "c1",
+      "id": 3
+    }
+  ],
+  "users": []
+}
